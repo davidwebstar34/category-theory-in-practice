@@ -1,4 +1,4 @@
-# Project Scaffold: `category-theory-in-practice`
+# `category-theory-in-practice`
 
 ### 📚 Overview
 A study repo inspired by Bartosz Milewski's Category Theory lectures. Combines high-level abstraction concepts with code, diagrams, and commentary — from a programmer’s perspective.
