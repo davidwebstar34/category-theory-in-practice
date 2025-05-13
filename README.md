@@ -9,11 +9,14 @@ A study repo inspired by Bartosz Milewski's Category Theory lectures. Combines h
 ```bash
 category-theory-in-practice/
 ├── README.md               
-├── notes/              
+├── notes/
+│   ├── category-theory-meets-quantum-intuition.md        
 │   ├── 1.1_motivation-and-philosophy.md
 │   ├── 1.2_what-is-a-category.md
-│   └── 2.1_functions-and-epimorphisms.md
-├── code/                  
+│   ├── 2.1_functions-and-epimorphisms.md
+│   └── 2.2_monomorphisms-and-void-unit.md
+├── code/
+│   ├── pyzx_basics.py          
 │   ├── identity.hs
 │   ├── composition.hs
 │   └── category_basics.hs
